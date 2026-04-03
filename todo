@@ -1,0 +1,22 @@
+✔ setup project folder structure @done(26-03-30 20:45)
+✔ setup python env @done(26-03-30 21:00)
+✔ install core dependencies @done(26-03-30 21:34)
+✔ initialize basic files @done(26-03-31 00:39)
+    app -> main streamlit entry point
+    readme -> project summary, tech stack, how to run
+    .streamlit -> for theme, server, settings
+
+# phase 1 ---- core detection
+upload
+preview
+basic issues
+✔ app.py skeleton @done(26-03-31 00:39)
+✔ handle csv upload and preview @done(26-03-31 00:39)
+✔ utils/profiler -> core detection engine @done(26-03-31 00:39)
+    now able to detect error , and showing types or errors prsent in that dataset.
+☐ show issue summary table in ui
+☐ implement suggestion ui for each issue
+# phase 2 ---- cleaning engine + code generation (core logic)
+
+
+ 
